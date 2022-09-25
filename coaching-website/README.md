@@ -5,7 +5,8 @@
 
 This is my first freelance work. I have designed this website using **[Bootstrap](https://getbootstrap.com/)** framework. I have also written all the content used in the website.
 
-#### Check [demo](https://vinitshahdeo.github.io/coaching-website/) here!
+#### Check [demo](https://633086d9b8f8011ecbc89ed4--moonlit-daffodil-f85c18.netlify.app/contact.html) here!
+
 
 ### Features
 
